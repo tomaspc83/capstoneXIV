@@ -74,7 +74,7 @@ app.layout = html.Div([
             )
         ]),
         html.Div([
-            html.Img(src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fimborrable.com%2Fblog%2Ftwitch%2F&psig=AOvVaw3YAaVUkwSJbhjBA5ZkxZ7G&ust=1623173366960000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjWyZGGhvECFQAAAAAdAAAAABAD",
+            html.Img(src="https://img.icons8.com/color/452/twitch--v1.png",
                      style={"width": "100px"}),
             html.H2(
                 id='twitch-visit',
