@@ -68,14 +68,14 @@ app.layout = html.Div([
         ]),
         html.Div([
             html.Img(src="https://logos-marcas.com/wp-content/uploads/2020/04/Twitter-Logo.png",
-                     style={"width": "100px"}),
+                     style={"width": "50px"}),
             html.H2(
                 id='twitter-visit',
             )
         ]),
         html.Div([
             html.Img(src="https://img.icons8.com/color/452/twitch--v1.png",
-                     style={"width": "100px"}),
+                     style={"width": "50px"}),
             html.H2(
                 id='twitch-visit',
             )
